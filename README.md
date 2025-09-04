@@ -1,15 +1,15 @@
-#Data Analysis Interview Challenge
+Data Analysis Interview Challenge
 This is your chance to wow us with creative and rigorous solutions! Please include your code at
 the end of your submission, or in a separate file. We also accept incomplete solutions.
 
-##Part 1 ‐ Exploratory data analysis
+Part 1 ‐ Exploratory data analysis
 The attached logins.json file contains (simulated) timestamps of user logins in a particular
 geographic location. Aggregate these login counts based on 15­ minute time intervals, and
 visualize and describe the resulting time series of login counts in ways that best characterize the
 underlying patterns of the demand. Please report/illustrate important features of the demand,
 such as daily cycles. If there are data quality issues, please report them.
 
-##Part 2 ‐ Experiment and metrics design
+Part 2 ‐ Experiment and metrics design
 The neighboring cities of Gotham and Metropolis have complementary circadian rhythms: on
 weekdays, Ultimate Gotham is most active at night, and Ultimate Metropolis is most active
 during the day. On weekends, there is reasonable activity in both cities.
@@ -29,7 +29,7 @@ operations team along with any caveats.
 Note: The two cities of Gotham and Metropolis are not in the provided dataset; however, you do
 not need this information to answer Part 2.
 
-##Part 3 ‐ Predictive modeling
+Part 3 ‐ Predictive modeling
 Ultimate is interested in predicting rider retention. To help explore this question, we have
 provided a sample dataset of a cohort of users who signed up for an Ultimate account in
 January 2014. The data was pulled several months later; we consider a user retained if they
@@ -53,7 +53,7 @@ indicators of model performance.
 3. Briefly discuss how Ultimate might leverage the insights gained from the model to
 improve its long term rider retention (again, a few sentences will suffice).
 
-##Data description
+Data description
 ● city: city this user signed up in
 ● phone: primary device for this user
 ● signup_date: date of account registration; in the form ‘YYYYMMDD’
